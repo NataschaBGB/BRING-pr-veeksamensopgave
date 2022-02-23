@@ -50,7 +50,7 @@ nav ul li {
     margin-top: 20px;
 }
 header nav li:before {
-    content: url(Materialer/baseline-keyboard-arrow-right.svg);
+    content: url(img/baseline-keyboard-arrow-right.svg);
     display: inline-block;
     vertical-align: middle;
 }
@@ -138,7 +138,7 @@ section {
     margin: auto;
 }
 section:first-of-type {
-    background-image: url("Materialer/hero-02.jpg");
+    background-image: url("img/hero-02.jpg");
     background-repeat: no-repeat;
     background-position-x:center;
 }
@@ -271,7 +271,7 @@ section:nth-of-type(6) .wrapper img {
 
 section:nth-of-type(7) {
     height: 40vh;
-    background-image: url("Materialer/budbil1.jpg");
+    background-image: url("img/budbil1.jpg");
     background-repeat:no-repeat;
     background-position-y: center;
     background-position-x:right;
@@ -390,7 +390,7 @@ main section span {
         border: none;
         cursor: pointer;
         z-index: 2;
-        background-image: url("Materialer/baseline-search-24px.svg");
+        background-image: url("img/baseline-search-24px.svg");
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
